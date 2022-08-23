@@ -5,6 +5,8 @@
   <p>* Node.</p>
   <p>* Typescript.</p>
   <p>* Express.</p>
+  <p>* Mysql.</p>
+  <p>* Sequilize.</p>
 
   <span>After downloading the project, inside the backend folder, start with the command:
         npm start</span>
