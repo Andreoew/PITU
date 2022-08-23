@@ -7,7 +7,7 @@
   <p>* Express.</p>
 
   <span>After downloading the project, inside the backend folder, start with the command:
-        Start npm</span>
+        npm start</span>
 
 
 
