@@ -30,3 +30,6 @@
   <p>* Bootstrap</p>
   <p>* Axios</p>
   <p>*react-router-dom</p>
+  <p>* Bootstrap - instalation the sass com command: yarn add sass -D</p>
+
+  
