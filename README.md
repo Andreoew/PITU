@@ -27,3 +27,6 @@
 
   <h1>Technologies used in the frontend:</h1>
   <p>* React</p>
+  <p>* Bootstrap</p>
+  <p>* Axios</p>
+  <p>*react-router-dom</p>
