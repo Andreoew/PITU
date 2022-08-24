@@ -14,3 +14,4 @@
 
 
   <h1>Technologies used in the frontend:</h1>
+  <p>React</p>
