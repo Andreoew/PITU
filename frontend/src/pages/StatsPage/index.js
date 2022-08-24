@@ -5,10 +5,17 @@ import { Container } from 'react-bootstrap';
 import ShortenerService from '../../services/shortenerServece';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import {StatsContainer, StatsRow, StatsBox, StatsBoxTitle } from '.styles';
 
 class StatsPage extends React.Component {
   constructor(props) {
     super(props);
+
+    this.state  = {
+      isLoading: false,
+      shortenedURL: {},
+      errorMessage: '',
+    }
   }
 
   render() {
