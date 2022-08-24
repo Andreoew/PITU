@@ -12,7 +12,8 @@
 
   <span>After downloading the project, inside the backend folder, start with the command:
         npm start</span>
-<span>Creates a "database.ts" file at the root of your project to include the following content in this file:
+<span>Creates a "database.ts" file at the root of your project to include the following content in this file:</span>
+
       '''   
             import { Sequelize } from 'sequelize';
 
@@ -20,7 +21,7 @@
 
             export default sequelize;
       '''
-</span>
+
 
 
 
