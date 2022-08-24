@@ -13,7 +13,8 @@
   <span>After downloading the project, inside the backend folder, start with the command:
         npm start</span>
 <span>Creates a "database.ts" file at the root of your project to include the following content in this file:
-      '''   import { Sequelize } from 'sequelize';
+      '''   
+            import { Sequelize } from 'sequelize';
 
             const sequelize = new Sequelize('mysql://root:suasenha@localhost:3306/nomedodatabase');
 
