@@ -18,5 +18,11 @@ export const StatsBox = styled.div`
   border: solid 1px #ccc;
   border-radius: .25rem;
   text-align: center;
-  margin: 0.5rem;
+  margin: .5rem;
+`;
+
+export const StatsBoxTitle = styled.div`
+  font-weight: 500;
+  padding: 0.25rem;
+  display: block;
 `;
